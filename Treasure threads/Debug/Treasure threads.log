@@ -1,0 +1,5 @@
+﻿  Treasure threads.cpp
+C:\Users\narkada\source\repos\Treasure threads\Treasure threads\Treasure threads.cpp(46,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\narkada\source\repos\Treasure threads\Treasure threads\Treasure threads.cpp(178,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\narkada\source\repos\Treasure threads\Treasure threads\Treasure threads.cpp(225,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Treasure threads.vcxproj -> C:\Users\narkada\source\repos\Treasure threads\Debug\Treasure threads.exe

@@ -98,7 +98,7 @@
 
 После нахождения клада командой, основной поток подождал возвращения двух оставшихся и программа завершилась
 
-![alt-текст](https://github.com/LittlePotato14/CSA_Treasure/blob/master/screens/2.png "2")
+![alt-текст](https://github.com/LittlePotato14/CSA_Treasure/blob/master/screens/3.png "3")
 
 ## Проверим на работе только с одной командой
 Вводим все необходимые значения
